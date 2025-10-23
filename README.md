@@ -1,6 +1,8 @@
 # ML-for-RS
 
-[图1-2.tif](https://github.com/user-attachments/files/23093239/1-2.tif)
+
+<img width="2472" height="2791" alt="图1-2" src="https://github.com/user-attachments/assets/784c6cf3-db89-49f2-9afa-c9c63255d11f" />
+
 
 **Requirements**
 

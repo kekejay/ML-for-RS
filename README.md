@@ -1,5 +1,5 @@
 # ML-for-RS
-<img width="868" height="884" alt="image" src="https://github.com/user-attachments/assets/dc45b0c9-362f-470a-a0ef-a5ad46745179" />
+
 
 **Requirements**
 

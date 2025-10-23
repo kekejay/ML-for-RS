@@ -1,5 +1,6 @@
 # ML-for-RS
 
+[图1-2.tif](https://github.com/user-attachments/files/23093239/1-2.tif)
 
 **Requirements**
 

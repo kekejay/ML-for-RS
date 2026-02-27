@@ -1,0 +1,12 @@
+batch_norm: true
+batch_size: 128
+dropout: 0.7
+epochs: 90
+hidden_dim_fc: 64
+kernel_size: 3
+lr: 1.0e-05
+num_layers: 2
+pool_kernel: 3
+pooling: avg
+stride: 2
+weight_decay: 0.0005

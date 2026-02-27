@@ -1,0 +1,7 @@
+batch_size: 64
+dropout: 0.0
+epochs: 150
+hidden_dim: 64
+lr: 1.0e-05
+num_layers: 4
+weight_decay: 0

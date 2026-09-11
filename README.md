@@ -1,6 +1,7 @@
 # ML-for-RS
 
-<img width="4493" height="5111" alt="final-流程图-3字体-2(1)-裁剪" src="https://github.com/user-attachments/assets/50ef3e4c-41f6-4b5b-a91f-afade6400a37" />
+<img width="2475" height="2762" alt="Figure 1" src="https://github.com/user-attachments/assets/e1e31117-bf3d-4691-98e1-486b84d8f0d4" />
+
 
 
 **Requirements**
